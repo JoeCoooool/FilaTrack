@@ -3,7 +3,7 @@
 A lightweight, web-based filament management system designed for ESP32. Effortlessly manage your 3D printing materials, track remaining stock, and print QR code labels directly from your microcontroller.
 ✨ Features
 
-    ESP32 Support: Full compatibility with the ESP32 family (S2, S3, C3, C6, and classic ESP32).
+    ESP32 Support: Full compatibility with the ESP32 family ( S3, C3, C6, and classic ESP32).
 
     Web Interface: Fully responsive UI with Dark & Light Mode support for both desktop and mobile.
 
