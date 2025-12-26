@@ -25,7 +25,7 @@ A lightweight, web-based filament management system designed for ESP32. Effortle
 
     Multilingual: Supports both English and German.
 
-![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/dunkel.png)
+
 
 
 ##    🏷️ Smart QR-Code Labels & Export
@@ -86,6 +86,12 @@ The tracker manages two main files within the internal flash memory:
     Edit Mode: Adjust temperatures, weights, and manufacturer details.
 
     QR Label: A print-ready view designed for physical labeling of your filament shelves or spools.
+
+![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/dunkel.png)
+![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/liste.png)
+![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/edit.png)
+![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/hell.png)
+![Login Screenshot](https://github.com/bogiboy/ESP-Filament-Tracker/blob/main/screenshots/qrcode.png)
 
 📝 License
 
