@@ -97,6 +97,6 @@ The tracker manages two main files within the internal flash memory:
 
 📝 License
 
-This project is released under the MIT License. You are free to use, modify, and distribute it for private and commercial purposes.
+This project is released under the MIT License. You are free to use
 
 
